@@ -1,4 +1,6 @@
-﻿# Dynamic Data Dashboard
+﻿[![CI](https://github.com/prince-raj01/project1/actions/workflows/ci.yml/badge.svg)](https://github.com/prince-raj01/project1/actions)
+
+# Dynamic Data Dashboard
 
 A small FastAPI backend and Streamlit frontend showing dynamic metrics. Run locally:
 
